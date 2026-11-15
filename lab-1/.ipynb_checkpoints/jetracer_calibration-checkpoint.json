@@ -1,0 +1,20 @@
+{
+  "car_id": "jetracer_1",
+  "pwm_frequency": 60,
+  "throttle_gain": 0.8,
+  "start_throttle": 0.12,
+  "min_running_throttle": 0.11,
+  "steering_gain": -0.9,
+  "steering_offset": 0.07,
+  "steering_calibrated": true,
+  "steering_physical_min": -0.7,
+  "steering_physical_max": 0.7,
+  "steering_min": -0.65,
+  "steering_max": 0.65,
+  "speed_control_mode": "throttle",
+  "stop": 0.0,
+  "start": 0.12,
+  "slow": 0.11,
+  "normal": 0.13,
+  "joystick_throttle_gain": 0.3
+}
