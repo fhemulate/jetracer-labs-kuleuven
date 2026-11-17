@@ -11,6 +11,9 @@ At the end of this session, compare two methods:
 - **Car A:** Road following using OpenCV.
 - **Car B:** Road following using a trained neural network (DNN) with TensorRT.
 
+- **Bonus:** Find solution of detecting the distance between of them on a road
+
+
 **Important:** This session covers road following. The lead-car detector and Adaptive Cruise Control (ACC) logic come in Labs 2 and 3.
 
 ## 2. Learning outcomes
